@@ -41,7 +41,7 @@ def main():
     st.title("NoveltyBench Results Viewer")
 
     # File path input
-    default_path = "novelty-bench/results/curated/gpt4o/scores.jsonl"
+    default_path = "scores.jsonl"
     file_path = st.text_input("Path to scores.jsonl", value=default_path)
 
     if not Path(file_path).exists():
