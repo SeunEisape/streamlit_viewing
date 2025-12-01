@@ -1,0 +1,26 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 14,
+  "names_found_in_pretraining": 13,
+  "counts": {
+    "Carl Friedrich Gauss": 26106,
+    "Charles Darwin": 795559,
+    "Friedrich Miescher": 10325,
+    "Friedrich von Recklinghausen": 500,
+    "Johann Balmer": 1025,
+    "Johann Galle": 2076,
+    "Johann Heinrich von Thnen": 2,
+    "Johann Karl Friedrich Zollner": 62,
+    "Johann Wolfgang von Goethe": 70721,
+    "John Herschel": 31775,
+    "Josef Loschmidt": 1223,
+    "Louis Pasteur": 138912,
+    "Michael Faraday": 138817,
+    "Not a scientist from the nineteenth century": 0
+  },
+  "entropy": {
+    "normalized": 0.46166297737207473,
+    "raw": 1.7083560178628976,
+    "max": 3.700439718141092
+  }
+}

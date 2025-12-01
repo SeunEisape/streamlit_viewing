@@ -1,0 +1,21 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 9,
+  "names_found_in_pretraining": 9,
+  "counts": {
+    "Cherry": 7911168,
+    "Choco": 339044,
+    "Choco mint": 127,
+    "Chocoalte": 1255,
+    "Chocolate": 10270963,
+    "Vanilla": 3437820,
+    "chocolate": 54766459,
+    "strawberry": 6620912,
+    "vanilla": 17962082
+  },
+  "entropy": {
+    "normalized": 0.6293021591260572,
+    "raw": 1.9948406476753173,
+    "max": 3.169925001442312
+  }
+}

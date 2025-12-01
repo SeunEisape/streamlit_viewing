@@ -1,0 +1,40 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 28,
+  "names_found_in_pretraining": 26,
+  "counts": {
+    "Alessandro Volta": 24454,
+    "Alexander Graham Bell": 170177,
+    "Alfred Russel Wallace": 47897,
+    "Carl Friedrich Gauss": 26106,
+    "Charles Babbage": 96220,
+    "Charles Darwin": 795559,
+    "Charles Lyell": 35519,
+    "Dmitri Mendeleev": 18102,
+    "Georges Cuvier": 14515,
+    "Gregor Mendel": 58733,
+    "Heinrich Hertz": 26365,
+    "Henri Becquerel": 14686,
+    "James Clerk Maxwell": 78300,
+    "James Joule": 3241,
+    "James Prescott Joule": 5175,
+    "Jean Baptiste Lamarck": 2245,
+    "John Dalton": 47019,
+    "Louis Agassiz": 25787,
+    "Louis Pasteur": 138912,
+    "Ludwig Boltzmann": 28926,
+    "Maria Mitchell": 18558,
+    "Marie Curie": 487931,
+    "Mary Anning": 37273,
+    "Michael Faraday": 138817,
+    "Nikola Tesla": 294745,
+    "Not a scientist from the nineteenth century": 0,
+    "Not three scientists mentioned": 0,
+    "Wilhelm Rontgen": 2081
+  },
+  "entropy": {
+    "normalized": 0.7264392318958195,
+    "raw": 3.414583818419017,
+    "max": 4.700439718141092
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 26,
+  "names_found_in_pretraining": 24,
+  "counts": {
+    "Alan Turing": 297075,
+    "Albert Einstein": 1287638,
+    "Antoine Lavoisier": 25398,
+    "Auguste Comte": 43806,
+    "Carl Friedrich Gauss": 26106,
+    "Charles Darwin": 795559,
+    "Comte de Buffon": 6117,
+    "Dorothy V Currie": 0,
+    "Enrico Fermi": 71425,
+    "Galileo Galilei": 133513,
+    "Gustav Kirchhoff": 4213,
+    "Isaac Newton": 570262,
+    "James Watson": 93084,
+    "Johannes Kepler": 96175,
+    "Lord Kelvin": 53588,
+    "Louis Pasteur": 138912,
+    "Maria Goeppert Mayer": 2764,
+    "Marie Curie": 487931,
+    "Niels Bohr": 123220,
+    "Nikola Tesla": 294745,
+    "Not a scientist": 2154,
+    "Not three scientists mentioned": 0,
+    "Pierre Fermat": 1540,
+    "Stephen Hawking": 522950,
+    "William Henry Bragg": 4533,
+    "William Herschel": 66305
+  },
+  "entropy": {
+    "normalized": 0.7480438604576944,
+    "raw": 3.429753049093218,
+    "max": 4.584962500721156
+  }
+}

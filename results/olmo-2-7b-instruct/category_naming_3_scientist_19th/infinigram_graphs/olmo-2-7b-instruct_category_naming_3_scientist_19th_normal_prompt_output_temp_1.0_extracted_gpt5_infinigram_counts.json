@@ -1,0 +1,39 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 27,
+  "names_found_in_pretraining": 25,
+  "counts": {
+    "Alexander Graham Bell": 170177,
+    "Alfred Russel Wallace": 47897,
+    "Antoine Becquerel": 456,
+    "Antoine Cesar Becquerel": 93,
+    "Antoine Henri Becquerel": 1374,
+    "Charles Darwin": 795559,
+    "Charles Lyell": 35519,
+    "Gregor Mendel": 58733,
+    "Henri Becquerel": 14686,
+    "J J Thomson": 1391,
+    "James Clerk Maxwell": 78300,
+    "Jean Baptiste Lamarck": 2245,
+    "John Dalton": 47019,
+    "John Tyndall": 21526,
+    "Joseph Henry": 60699,
+    "Joseph Lister": 25627,
+    "Joseph Louis Gay Lussac": 65,
+    "Louis Pasteur": 138912,
+    "Marie Curie": 487931,
+    "Mary Anning": 37273,
+    "Mary Somerville": 15686,
+    "Michael Faraday": 138817,
+    "Nikola Tesla": 294745,
+    "Not a scientist from the nineteenth century": 0,
+    "Not three scientists mentioned": 0,
+    "Thomas Edison": 540871,
+    "Thomas Johann Seebeck": 1181
+  },
+  "entropy": {
+    "normalized": 0.7023577874004459,
+    "raw": 3.2616485584560406,
+    "max": 4.643856189774724
+  }
+}

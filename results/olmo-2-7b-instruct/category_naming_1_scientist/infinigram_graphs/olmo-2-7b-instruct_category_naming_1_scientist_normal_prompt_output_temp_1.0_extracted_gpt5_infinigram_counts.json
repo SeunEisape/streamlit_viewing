@@ -1,0 +1,41 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 29,
+  "names_found_in_pretraining": 29,
+  "counts": {
+    "Alan E Wilson": 2,
+    "Alan Turing": 297075,
+    "Albert Einstein": 1287638,
+    "Carl Friedrich Gauss": 26106,
+    "Charles Darwin": 795559,
+    "Erwin Schrodinger": 8575,
+    "Isaac Newton": 570262,
+    "Jack Good": 24326,
+    "Jane Goodall": 221317,
+    "Johannes Kepler": 96175,
+    "John Abelson": 431,
+    "John Desmond Bernal": 1435,
+    "John Herschel": 31775,
+    "John von Neumann": 68590,
+    "Louis Pasteur": 138912,
+    "Marie Curie": 487931,
+    "Max Planck": 675580,
+    "Nicolaus Copernicus": 59140,
+    "Niels Bohr": 123220,
+    "Nikola Tesla": 294745,
+    "Not a scientist": 2154,
+    "Roger Bacon": 57814,
+    "Roger Penrose": 55537,
+    "Roger Sperry": 6002,
+    "Roger W Sperry": 104,
+    "Sigmund Freud": 562809,
+    "Stephen Hawking": 522950,
+    "Thomas Edison": 540871,
+    "Thomas Johann Seebeck": 1181
+  },
+  "entropy": {
+    "normalized": 0.7756993019020169,
+    "raw": 3.768332466573723,
+    "max": 4.857980995127572
+  }
+}

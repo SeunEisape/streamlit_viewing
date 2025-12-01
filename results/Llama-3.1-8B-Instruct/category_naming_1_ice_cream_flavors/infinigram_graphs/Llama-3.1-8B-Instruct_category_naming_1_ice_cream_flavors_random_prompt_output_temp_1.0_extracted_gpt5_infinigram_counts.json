@@ -1,0 +1,42 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 30,
+  "names_found_in_pretraining": 27,
+  "counts": {
+    "Butter Pecan": 28930,
+    "Butter Scotch": 2205,
+    "Chocolate": 10270963,
+    "Chocolate Chip Cookie Dough": 34897,
+    "Chocolate Chocolate Chip": 7455,
+    "Cookie Dough": 169257,
+    "Cookies and Cream": 44913,
+    "Cookies and cream": 4684,
+    "Mango": 2923370,
+    "Mango Cream": 3113,
+    "Mango Sticky Rice": 9307,
+    "Matcha Green Tea": 42357,
+    "Mint Chocolate Chip": 31050,
+    "Multiple ice cream flavors mentioned": 0,
+    "Neapolitan": 753958,
+    "No ice cream flavor mentioned": 0,
+    "Pistachio": 310592,
+    "Rocky Road": 105568,
+    "Stracciatella di cioccolato": 0,
+    "Strawberry": 3157736,
+    "Strawberry Cheesecake": 38976,
+    "Strawberry Cheesecake Swirl": 65,
+    "Strawberry Shortcake": 147734,
+    "Strawberry shortcake": 9866,
+    "Tiramisu": 264485,
+    "Vanilla": 3437820,
+    "Vanilla Bean": 125540,
+    "Vanilla Bean Brittle": 2,
+    "Vanilla Bean Noel": 2932,
+    "Vanille": 111049
+  },
+  "entropy": {
+    "normalized": 0.5012007199898759,
+    "raw": 2.383153039555193,
+    "max": 4.754887502163468
+  }
+}

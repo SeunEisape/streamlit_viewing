@@ -1,0 +1,32 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 20,
+  "names_found_in_pretraining": 17,
+  "counts": {
+    "Cherry": 7911168,
+    "Cherry Garcia": 22142,
+    "Choco": 339044,
+    "Choco Mint Chip": 95,
+    "Choco Peanut Butter Cup": 3,
+    "Choco almond": 46,
+    "Choco mint": 127,
+    "Choco mint chocolate chip": 0,
+    "Chocolat": 425531,
+    "Chocolate": 10270963,
+    "Chocolate Fudge Brownie": 10133,
+    "Chocolate Mint": 39280,
+    "Chocolate Peanut Butter Cup": 5198,
+    "Chocolate Raspberry Swirl": 451,
+    "Chocoripple": 0,
+    "Mint Chocolate Chip": 31050,
+    "Mint chocolate chip": 10319,
+    "Multiple ice cream flavors mentioned": 0,
+    "Rocky Road": 105568,
+    "Vanilla": 3437820
+  },
+  "entropy": {
+    "normalized": 0.4275095648648493,
+    "raw": 1.7474294606641732,
+    "max": 4.087462841250339
+  }
+}

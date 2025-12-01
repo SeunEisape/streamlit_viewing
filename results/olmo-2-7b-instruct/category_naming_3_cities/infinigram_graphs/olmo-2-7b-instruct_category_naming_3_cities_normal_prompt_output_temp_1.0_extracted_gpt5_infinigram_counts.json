@@ -1,0 +1,24 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 12,
+  "names_found_in_pretraining": 12,
+  "counts": {
+    "Amsterdam": 12551857,
+    "Athens": 9905313,
+    "Barcelona": 16575323,
+    "Florence": 9526765,
+    "Istanbul": 6888247,
+    "Kyoto": 4324792,
+    "London": 144216059,
+    "New York City": 29607611,
+    "Paris": 58070155,
+    "Rome": 29301569,
+    "Sydney": 29875209,
+    "Tokyo": 20489597
+  },
+  "entropy": {
+    "normalized": 0.8015924173670156,
+    "raw": 2.873678757123173,
+    "max": 3.584962500721156
+  }
+}

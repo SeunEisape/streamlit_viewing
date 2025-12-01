@@ -1,0 +1,18 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 6,
+  "names_found_in_pretraining": 6,
+  "counts": {
+    "Blue": 68697343,
+    "Red": 168943906,
+    "blue": 134403336,
+    "green": 171356923,
+    "red": 233753199,
+    "yellow": 58811654
+  },
+  "entropy": {
+    "normalized": 0.9433630570436584,
+    "raw": 2.43855812702353,
+    "max": 2.584962500721156
+  }
+}

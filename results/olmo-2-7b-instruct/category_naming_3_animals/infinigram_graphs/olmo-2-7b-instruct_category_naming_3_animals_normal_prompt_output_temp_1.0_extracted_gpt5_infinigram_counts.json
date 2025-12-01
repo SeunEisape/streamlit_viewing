@@ -1,0 +1,29 @@
+{
+  "index": "v4_dolma-v1_7_llama",
+  "total_unique_names": 17,
+  "names_found_in_pretraining": 17,
+  "counts": {
+    "Elephant": 3551617,
+    "Tiger": 12720163,
+    "bird": 44199660,
+    "chimpanzee": 755246,
+    "dolphin": 2660976,
+    "eagle": 5630477,
+    "elephant": 8700335,
+    "giraffe": 1384675,
+    "gorilla": 2239660,
+    "kangaroo": 1339088,
+    "leopard": 3106059,
+    "lion": 10460297,
+    "monkey": 8541955,
+    "panda": 1925764,
+    "shark": 8422666,
+    "tiger": 6964489,
+    "turtle": 5882555
+  },
+  "entropy": {
+    "normalized": 0.8143609706024804,
+    "raw": 3.3286702067021983,
+    "max": 4.087462841250339
+  }
+}
